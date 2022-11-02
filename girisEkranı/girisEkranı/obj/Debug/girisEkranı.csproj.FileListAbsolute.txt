@@ -1,0 +1,33 @@
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\bin\Debug\girisEkranı.exe.config
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\bin\Debug\girisEkranı.exe
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\bin\Debug\girisEkranı.pdb
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\obj\Debug\girisEkranı.Form1.resources
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\obj\Debug\girisEkranı.Properties.Resources.resources
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\obj\Debug\girisEkranı.exe
+C:\Users\casper\Desktop\Yeni klasör\girisEkranı\girisEkranı\obj\Debug\girisEkranı.pdb
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\bin\Debug\girisEkranı.exe.config
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\bin\Debug\girisEkranı.exe
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\bin\Debug\girisEkranı.pdb
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\obj\Debug\girisEkranı.Form1.resources
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\obj\Debug\girisEkranı.Properties.Resources.resources
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\obj\Debug\girisEkranı.exe
+C:\Users\casper\Desktop\girisEkranı\girisEkranı\obj\Debug\girisEkranı.pdb
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\bin\Debug\girisEkranı.exe.config
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\bin\Debug\girisEkranı.exe
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\bin\Debug\girisEkranı.pdb
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\obj\Debug\girisEkranı.Form1.resources
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\obj\Debug\girisEkranı.Properties.Resources.resources
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\obj\Debug\girisEkranı.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\obj\Debug\girisEkranı.exe
+C:\Users\casper\Desktop\Github\girisEkranı\girisEkranı\obj\Debug\girisEkranı.pdb
